@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "All I Want for Christmas Is You",
+  "base_artist": "Mariah Carey",
+  "createdAt": "2025-12-06T07:23:10.250368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "大橋トリオ",
+      "has_synced": false,
+      "path": "select/01_All_I_Want_For_Christmas_Is_You_大橋トリオ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/02_All_I_Want_For_Christmas_Is_You_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/03_All_I_Want_For_Christmas_Is_You_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_All_I_Want_for_Christmas_Is_You_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Kalimba",
+      "has_synced": false,
+      "path": "select/05_All_I_Want_For_Christmas_Is_You_Kalimba.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You",
+      "artist": "MariahCareyVEVO",
+      "has_synced": true,
+      "path": "select/06_All_I_Want_for_Christmas_Is_You_MariahCareyVEVO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Christmas",
+      "has_synced": false,
+      "path": "select/07_All_I_Want_for_Christmas_Is_You_Christmas.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/08_All_I_Want_For_Christmas_Is_You_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/09_All_I_Want_for_Christmas_Is_You_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Ohashi Trio",
+      "has_synced": false,
+      "path": "select/10_All_I_Want_For_Christmas_Is_You_Ohashi_Trio.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/11_All_I_Want_for_Christmas_Is_You_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/12_All_I_Want_For_Christmas_Is_You_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/13_All_I_Want_for_Christmas_Is_You_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/14_All_I_Want_For_Christmas_Is_You_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/15_All_I_Want_For_Christmas_Is_You_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Tarja",
+      "has_synced": false,
+      "path": "select/16_All_I_Want_For_Christmas_Is_You_Tarja.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You",
+      "artist": "J.Fla",
+      "has_synced": false,
+      "path": "select/17_All_I_Want_for_Christmas_Is_You_J.Fla.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Celtic Thunder",
+      "has_synced": true,
+      "path": "select/18_All_I_Want_For_Christmas_Is_You_Celtic_Thunder.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Gabrielle Aplin",
+      "has_synced": false,
+      "path": "select/19_All_I_Want_for_Christmas_Is_You_Gabrielle_Aplin.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Garou",
+      "has_synced": true,
+      "path": "select/20_All_I_Want_For_Christmas_Is_You_Garou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah carey",
+      "has_synced": false,
+      "path": "select/pl_01_All_I_Want_for_Christmas_Is_You_Mariah_carey.txt"
+    }
+  ]
+}
