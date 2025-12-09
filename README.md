@@ -1,61 +1,67 @@
-# Mariah Carey – All I Want For Christmas Is You
+# Mariah carey – All I Want for Christmas Is You
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:06.37] I don't want a lot for Christmas
-[00:12.73] There is just one thing I need
-[00:17.20] I don't care about the presents underneath the Christmas tree
-[00:24.37] I just want you for my own
-[00:28.55] More than you could ever know
-[00:33.32] Make my wish come true
-[00:38.70] All I want for Christmas is you
-[00:45.55] Yeah
-[00:47.55] 
-[00:57.01] I don't want a lot for Christmas
-[01:00.27] There is just one thing I need (and I)
-[01:03.91] Don't care about the presents underneath the Christmas tree
-[01:09.76] I don't need to hang my stocking there upon the fireplace
-[01:16.59] Santa Claus won't make me happy with a toy on Christmas Day
-[01:46.09] 
-[01:22.59] I just want you for my own
-[01:25.67] More than you could ever know
-[01:28.90] Make my wish come true
-[01:32.23] All I want for Christmas is you
-[01:38.51] You, baby
-[01:43.01] 
-[01:41.11] Oh, I won't ask for much this Christmas
-[01:44.98] I won't even wish for snow (and I)
-[01:48.40] I'm just gonna keep on waiting underneath the mistletoe
-[01:54.75] I won't make a list and send it to the North Pole for Saint Nick
-[02:01.45] I won't even stay awake to hear those magic reindeer click
-[02:30.45] 
-[02:07.15] 'Cause I just want you here tonight
-[02:10.55] Holding on to me so tight
-[02:13.68] What more can I do?
-[02:16.43] Oh, baby, all I want for Christmas is you
-[02:23.32] You, baby
-[02:27.82] 
-[02:29.53] Oh-oh, all the lights are shining so brightly everywhere (so brightly, baby)
-[02:33.58] And the sound of children's laughter fills the air (oh, oh, yeah)
-[02:40.13] And everyone is singing (oh, yeah)
-[02:43.11] I hear those sleigh bells ringing
-[02:45.62] Santa, won't you bring me the one I really need? (Yeah, oh)
-[02:48.43] Won't you please bring my baby to me?
-[03:06.93] 
-[02:51.68] Oh, I don't want a lot for Christmas
-[02:55.27] This is all I'm asking for
-[03:01.55] I just wanna see my baby standing right outside my door
-[03:29.05] 
-[03:04.59] Oh, I just want you for my own
-[03:07.93] More than you could ever know
-[03:11.17] Make my wish come true
-[03:13.86] Oh, baby, all I want for Christmas is you
-[03:21.15] You, baby
-[03:25.65] 
-[03:27.13] All I want for Christmas is you, baby
-[03:33.55] All I want for Christmas is you, baby
-[03:39.94] All I want for Christmas is you, baby
-[03:46.30] All I want for Christmas (all I really want) is you, baby
-[03:52.76] All I want (I want) for Christmas (all I really want) is you, baby
+```
+I don't want a lot for Christmas
+There is just one thing I need
+I don't care about the presents
+Underneath the Christmas tree
+I don't need to hang my stocking
+There upon the fireplace
+Santa Claus won't make me happy
+With a toy on Christmas Day
+I just want you for my own
+More than you could ever know
+Make my wish come true
+All I want for Christmas is you,
+Oh, I won't ask for much this
+Christmas
+I won't even wish for snow
+And I'm just gonna keep on
+waiting
+Underneath the mistletoe
+I won't make a list and send it
+To the North Pole for Saint Nick
+I won't even stay awake to
+Hear those magic reindeer click
+'Cause I just want you here
+tonight
+Holding on to me so tight
+What more can I do?
+Baby, all I want for Christmas
+is you
+You, baby
+Oh, all the lights are shining
+So brightly everywhere
+And the sound of children's
+Laughter fills the air
+And everyone is singing
+I hear those sleigh bells
+ringing
+Santa, won't you bring me
+the one I really need?
+Won't you please bring my baby
+to me?
+Oh, I don't want a lot for
+Christmas
+This is all I'm asking for
+I just want to see my baby
+Standing right outside my do
+Oh, I just want you for my own
+More than you could ever know
+Make my wish come true
+Baby, all I want for Christmas
+is
+You, baby
+All I want for Christmas is you,
+baby
+All I want for Christmas is you,
+baby
+All I want for Christmas is you,
+baby
+All I want for Christmas is you,
+baby
+All I want for Christmas is you
+baby
 ```
