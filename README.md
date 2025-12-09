@@ -3,60 +3,59 @@
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:06.44] I don't want a lot for Christmas
-[00:12.81] There is just one thing I need
-[00:17.23] I don't care about the presents underneath the Christmas tree
-[00:24.46] I just want you for my own
-[00:28.55] More than you could ever know
-[00:33.45] Make my wish come true
-[00:39.00] All I want for Christmas is you
-[00:54.50] 
-[00:55.26] Yeah
-[00:57.26] 
-[00:57.10] I don't want a lot for Christmas
-[01:00.39] There is just one thing I need (and I)
-[01:03.86] Don't care about the presents underneath the Christmas tree
-[01:09.88] I don't need to hang my stocking there upon the fireplace
+[00:06.34] I don't want a lot for Christmas
+[00:12.78] There is just one thing I need
+[00:17.24] I don't care about the presents underneath the Christmas tree
+[00:24.38] I just want you for my own
+[00:28.54] More than you could ever know
+[00:33.34] Make my wish come true
+[00:38.79] All I want for Christmas is you
+[00:45.59] Yeah
+[00:47.59] 
+[00:57.05] I don't want a lot for Christmas
+[01:00.24] There is just one thing I need (and I)
+[01:03.91] Don't care about the presents underneath the Christmas tree
+[01:09.73] I don't need to hang my stocking there upon the fireplace
 [01:16.57] Santa Claus won't make me happy with a toy on Christmas Day
 [01:46.07] 
-[01:22.72] I just want you for my own
-[01:25.82] More than you could ever know
-[01:29.07] Make my wish come true
+[01:22.55] I just want you for my own
+[01:25.65] More than you could ever know
+[01:28.90] Make my wish come true
 [01:32.26] All I want for Christmas is you
-[01:38.64] You, baby
-[01:43.14] 
-[01:41.36] Oh, I won't ask for much this Christmas
-[01:45.01] I won't even wish for snow (and I)
-[01:48.16] I'm just gonna keep on waiting underneath the mistletoe
-[01:54.68] I won't make a list and send it to the North Pole for Saint Nick
-[02:01.46] I won't even stay awake to hear those magic reindeer click
-[02:30.46] 
-[02:07.25] 'Cause I just want you here tonight
-[02:10.53] Holding on to me so tight
-[02:13.74] What more can I do?
-[02:16.40] Oh, baby, all I want for Christmas is you
-[02:23.48] You, baby
-[02:27.98] 
-[02:26.65] Oh-oh, all the lights are shining so brightly everywhere (so brightly, baby)
-[02:33.79] And the sound of children's laughter fills the air (oh, oh, yeah)
-[02:39.73] And everyone is singing (oh, yeah)
-[02:42.08] I hear those sleigh bells ringing
-[02:45.61] Santa, won't you bring me the one I really need? (Yeah, oh)
-[02:48.36] Won't you please bring my baby to me?
-[03:06.86] 
-[02:51.85] Oh, I don't want a lot for Christmas
-[02:55.36] This is all I'm asking for
-[02:58.62] I just wanna see my baby standing right outside my door
-[03:26.12] 
-[03:04.65] Oh, I just want you for my own
-[03:08.13] More than you could ever know
-[03:11.52] Make my wish come true
-[03:14.04] Oh, baby, all I want for Christmas is you
-[03:25.50] You, baby
-[03:30.00] 
-[03:27.30] All I want for Christmas is you, baby
-[03:33.71] All I want for Christmas is you, baby
-[03:40.12] All I want for Christmas is you, baby
-[03:46.53] All I want for Christmas (all I really want) is you, baby
-[03:52.99] All I want (I want) for Christmas (all I really want) is you, baby
+[01:38.50] You, baby
+[01:43.00] 
+[01:41.19] Oh, I won't ask for much this Christmas
+[01:44.96] I won't even wish for snow (and I)
+[01:48.48] I'm just gonna keep on waiting underneath the mistletoe
+[01:54.77] I won't make a list and send it to the North Pole for Saint Nick
+[02:01.42] I won't even stay awake to hear those magic reindeer click
+[02:30.42] 
+[02:07.12] 'Cause I just want you here tonight
+[02:10.57] Holding on to me so tight
+[02:13.66] What more can I do?
+[02:16.45] Oh, baby, all I want for Christmas is you
+[02:23.36] You, baby
+[02:27.86] 
+[02:29.51] Oh-oh, all the lights are shining so brightly everywhere (so brightly, baby)
+[02:33.56] And the sound of children's laughter fills the air (oh, oh, yeah)
+[02:40.18] And everyone is singing (oh, yeah)
+[02:43.17] I hear those sleigh bells ringing
+[02:45.65] Santa, won't you bring me the one I really need? (Yeah, oh)
+[02:48.43] Won't you please bring my baby to me?
+[03:06.93] 
+[02:51.64] Oh, I don't want a lot for Christmas
+[02:55.20] This is all I'm asking for
+[03:01.58] I just wanna see my baby standing right outside my door
+[03:29.08] 
+[03:04.54] Oh, I just want you for my own
+[03:07.99] More than you could ever know
+[03:11.13] Make my wish come true
+[03:13.88] Oh, baby, all I want for Christmas is you
+[03:21.11] You, baby
+[03:25.61] 
+[03:27.16] All I want for Christmas is you, baby
+[03:33.55] All I want for Christmas is you, baby
+[03:39.96] All I want for Christmas is you, baby
+[03:46.32] All I want for Christmas (all I really want) is you, baby
+[03:52.75] All I want (I want) for Christmas (all I really want) is you, baby
 ```
